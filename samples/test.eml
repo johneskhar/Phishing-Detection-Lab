@@ -1,1 +1,16 @@
+From: attacker@example.com
+To: victim@example.com
+Subject: Urgent - Verify Your Account
+MIME-Version: 1.0
+Content-Type: text/plain
+
+Dear user,
+
+Your account has been flagged for suspicious activity.
+Please verify your account immediately to avoid suspension:
+
+http://phishing-site.com/login
+
+Thank you,
+Support Team
 
