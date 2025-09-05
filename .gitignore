@@ -1,0 +1,33 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.env/
+.venv/
+env/
+venv/
+
+# Jupyter / IPython
+.ipynb_checkpoints
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Models (large binaries)
+models/*.pkl
+
+# Outputs (generated at runtime)
+outputs/*.csv
+outputs/*.json
+outputs/*.png
+
+# Logs
+*.log
+
+# IDE / Editor
+.vscode/
+.idea/
